@@ -1,6 +1,6 @@
 # 🌿 SinNique | Cloud & Infrastructure Engineer in the Making
 
-> Building systems, exploring infrastructure, and learning how to make technology work reliably.
+> Building reliable systems, exploring infrastructure, and learning how to make technology work reliably.
 
 Hello! I'm **Sin**, a graduating Bachelor of Science in Information Technology student from the Philippines.
 
@@ -29,12 +29,8 @@ My current direction is **Cloud & Infrastructure Engineering**, with a growing i
 
 **Currently learning and exploring**
 
-- Linux & Windows Server
 - Networking fundamentals
-- PowerShell & Bash
-- Docker & Kubernetes
 - GitHub Actions
-- Terraform
 - SQL
 
 ### 🌱 Selected Projects
